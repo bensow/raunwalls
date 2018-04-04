@@ -57,14 +57,19 @@
 			"name": "Mi Note"
 		},
 		{
-			"author": "Benjamin Sow",
-			"url": "https://github.com/bensow/raunwalls/blob/master/Walls/Let's%20take%20a%20field%20trip.png",
+			"author": "Octaviotti",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Let's%20take%20a%20field%20trip.jpg",
 			"name": "Field Trip"
 		},
 		{
 			"author": "Benjamin Sow",
-			"url": "https://github.com/bensow/raunwalls/blob/master/Walls/Hold%20On%2C%20We're%20Going%20Home.jpg",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Hold%20On%2C%20We're%20Going%20Home.jpg",
 			"name": "We're Going Home"
+		},
+		{
+			"author": "Benjamin Sow",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/P20.png",
+			"name": "Wyoming"
 		}
 		
 	]
