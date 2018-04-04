@@ -3,6 +3,22 @@
 	[ 
 		{
 			"author": "Benjamin Sow",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/P20.png",
+			"name": "Wyoming"
+		},
+		{
+			"author": "Benjamin Sow",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Hold%20On%2C%20We're%20Going%20Home.jpg",
+			"name": "We're Going Home"
+		},
+		{
+			"author": "Octaviotti",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Let's%20take%20a%20field%20trip.jpg",
+			"name": "Field Trip"
+		},
+		
+		{
+			"author": "Benjamin Sow",
 			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/purplearray.jpg",
 			"name": "Purple Array"
 		},
@@ -38,16 +54,6 @@
 		},
 		{
 			"author": "Benjamin Sow",
-			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/triangulated.jpg",
-			"name": "Warm Embrace Triangulated"
-		},
-		{
-			"author": "Benjamin Sow",
-			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/nexus7.jpg",
-			"name": "Nexus"
-		},
-		{
-			"author": "Benjamin Sow",
 			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/portdickson.jpg",
 			"name": "Port Dickson"
 		},
@@ -55,21 +61,6 @@
 			"author": "Benjamin Sow",
 			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/minote.jpg",
 			"name": "Mi Note"
-		},
-		{
-			"author": "Octaviotti",
-			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Let's%20take%20a%20field%20trip.jpg",
-			"name": "Field Trip"
-		},
-		{
-			"author": "Benjamin Sow",
-			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Hold%20On%2C%20We're%20Going%20Home.jpg",
-			"name": "We're Going Home"
-		},
-		{
-			"author": "Benjamin Sow",
-			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/P20.png",
-			"name": "Wyoming"
 		}
 		
 	]
