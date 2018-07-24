@@ -3,6 +3,16 @@
 	[ 
 		{
 			"author": "Benjamin Sow",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Moonlit.png",
+			"name": "Moonlit"
+		},
+		{
+			"author": "Benjamin Sow",
+			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/CleanNight.png",
+			"name": "Clear Night"
+		},
+		{
+			"author": "Benjamin Sow",
 			"url": "https://raw.githubusercontent.com/bensow/raunwalls/master/Walls/Dreamer.jpg",
 			"name": "Dreamer"
 		},
